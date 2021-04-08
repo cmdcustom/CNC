@@ -1,6 +1,6 @@
 #CNC Main
 
-clear @a[tag=!staff] bedrock
-clear @a[tag=!staff] command_block
+clear @a[tag=!staff] minecraft:bedrock
+clear @a[tag=!staff] minecraft:command_block
 
 
