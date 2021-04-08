@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "TooCool205",
+        "description": "",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner:{Name: \"TooCool205\", Properties: {textures: [{Value: \"ewogICJ0aW1lc3RhbXAiIDogMTYxNzg5Mjg0NzY0NiwKICAicHJvZmlsZUlkIiA6ICI1MWQ0MDk2YjExMWI0YTYyYjBiYmQ0MmY4M2RkMjBmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb29Db29sMjA1IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJkMWQzMDkwZjg5OGNlMDQ5YzBhMDdkZWUzYzVjMThmNzY1NjYxZTYwNDliNmFkMzQ0OGMyNGE4NjZkMzA5YjAiCiAgICB9CiAgfQp9\"}]}}}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

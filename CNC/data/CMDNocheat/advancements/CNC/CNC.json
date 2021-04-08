@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "CNC",
+        "description": "An easy to use, free anticheat.",
+        "icon": {
+            "item": "minecraft:minecraft:grass"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:CMDNocheat",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
